@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Gedung",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Rektorat (Kampus Cipulir)", "description": "Gedung rektorat Universitas Darunanjah." }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 106.7642977, -6.2371732 ], [ 106.7642173, -6.2374305 ], [ 106.7643192, -6.2374678 ], [ 106.7644024, -6.2372052 ], [ 106.7642977, -6.2371732 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "Gedung Sanggit (Kampus Ulujami)", "description": "Fakultas Agama Islam dan Fakultas Bisnis" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 106.7624886, -6.2473973 ], [ 106.7625161, -6.2475126 ], [ 106.7628735, -6.2474246 ], [ 106.7628446, -6.2473066 ], [ 106.7624886, -6.2473973 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "Gedung Abu Bakar (Fakultas Sains dan Teknologi)", "description": "Gedung Fakultas Sains dan Teknologi" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 106.76298, -6.2468313 ], [ 106.7629987, -6.2469046 ], [ 106.7633105, -6.2468193 ], [ 106.7632904, -6.2467473 ], [ 106.76298, -6.2468313 ] ] ] } }
+]
+}
